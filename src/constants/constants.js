@@ -1,13 +1,12 @@
 export const projects = [
   {
-    title: "Netflix 2022",
-    description:
-      "Using Html, css and js i was able to make a clone of Netflix 2022 landing page.",
-    image: "/images/5.png",
-    tags: ["HTML", "CSS", "JS"],
-    source: "https://github.com/Dapper-D/2022-netflix-landing-page",
-    visit: "https://dapper-d.github.io/2022-netflix-landing-page/",
-    id: 3,
+    title: "1inch Clone",
+    description: " A clone of the 1inch exchange site ",
+    image: "/images/9.png",
+    tags: ["Html", "Tailwind Css", "Js", "React"],
+    source: "https://github.com/Dapper-D/1inch-clone",
+    visit: "https://1inch-clone.vercel.app/",
+    id: 0,
   },
   {
     title: "E-Commerce",
@@ -29,13 +28,14 @@ export const projects = [
     id: 2,
   },
   {
-    title: "1inch Clone",
-    description: " A clone of the 1inch exchange site ",
-    image: "/images/9.png",
-    tags: ["Html", "Tailwind Css", "Js", "React"],
-    source: "https://github.com/Dapper-D/1inch-clone",
-    visit: "https://1inch-clone.vercel.app/",
-    id: 0,
+    title: "Netflix 2022",
+    description:
+      "Using Html, css and js i was able to make a clone of Netflix 2022 landing page.",
+    image: "/images/5.png",
+    tags: ["HTML", "CSS", "JS"],
+    source: "https://github.com/Dapper-D/2022-netflix-landing-page",
+    visit: "https://dapper-d.github.io/2022-netflix-landing-page/",
+    id: 3,
   },
 ];
 
