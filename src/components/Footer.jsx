@@ -7,10 +7,10 @@ function Footer() {
 			Xander
 			</a>
 			<a
-				href="mailto:oladapoomoworare@gmail.com"
+				href="mailto:xanderwolfe@gmail.com"
 				className="text-sm md:text-md hover:text-indigo-500"
 			>
-				oladapoomoworare@gmail.com
+				xanderwolfe@gmail.com
 			</a> 
 		</div>
 	);
